@@ -19,7 +19,21 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
+        "./assets/education/bootstrap/css/bootstrap.css",
+        "./assets/education/fonts/font-awesome/css/font-awesome.css",
+        "./assets/education/fonts/fontello/css/fontello.css",
+        "./assets/education/plugins/magnific-popup/magnific-popup.css",
+        "./assets/education/plugins/rs-plugin-5/css/settings.css",
+        "./assets/education/plugins/rs-plugin-5/css/layers.css",
+        "./assets/education/plugins/rs-plugin-5/css/navigation.css",
+        "./assets/education/css/animations.css",
+        "./assets/education/plugins/owlcarousel2/assets/owl.carousel.min.css",
+        "./assets/education/plugins/owlcarousel2/assets/owl.theme.default.min.css",
+        "./assets/education/plugins/hover/hover-min.css",
+        "./assets/education/plugins/morphext/morphext.css",
+        "./assets/education/css/style.css",
+        "./assets/education/css/typography-default.css",
+        "./assets/education/css/skins/red.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
